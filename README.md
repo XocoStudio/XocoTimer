@@ -35,8 +35,7 @@ Mira este videotutorial para ver Xocoboom en acción:
 ## Contribuciones
 Las contribuciones son bienvenidas. Realiza un fork del repositorio y envía tus pull requests.
 
-## Licencia
-Este proyecto se distribuye bajo la licencia MIT.
+
 
 ---
 
